@@ -2,4 +2,5 @@
 Code Snippet Related To Pandas Library
 
 # View Updated NoteBook
-https://colab.research.google.com/drive/1znQtNASzQqw-guWuIr9Tjk2evvdoCO7g
+Series Data Structure : https://github.com/tushar821999/Pandas_Library/blob/master/Series_Data_Structure.ipynb
+DataFrame Data Strucute : https://github.com/tushar821999/Pandas_Library/blob/master/DataFrame_Data_Structure.ipynb
